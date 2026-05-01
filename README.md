@@ -60,9 +60,9 @@ Currently honing my skills in secure coding practices, network security, vulnera
 
 <div align="center">
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaypratap9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Ajay's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ajaypratap9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypratap9&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ajaypratap9&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -84,8 +84,8 @@ Currently honing my skills in secure coding practices, network security, vulnera
 
 I'm always open to discussing **cybersecurity**, **web development projects**, or potential collaborations. Feel free to reach out!
 
-- **Email**: (Add your email here)
-- **Location**: Meerut, Uttar Pradesh (currently studying in Mathura)
+- **Email**: ajaysingh91400@gmail.com
+- **Location**: Farrukhabad, Uttar Pradesh (currently studying in Mathura)
 
 ---
 
