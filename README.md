@@ -52,7 +52,7 @@ Currently honing my skills in secure coding practices, network security, vulnera
 ![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-007FFF?style=for-the-badge&logo=aircrack-ng&logoColor=white)
 
-**Additional Tools:** BNAO, VS Code Extensions, Git & Version Control
+**Additional Tools:** VS Code Extensions, Git & Version Control
 
 ---
 
