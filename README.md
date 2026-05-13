@@ -39,50 +39,50 @@
 
 ### ◈ &nbsp;LIVE STATUS DASHBOARD&nbsp; ◈
 
+<table align="center">
+<tr>
+<td align="center" width="250">
+<img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge&labelColor=111827&logo=statuspage&logoColor=22C55E"/>
+</td>
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge&labelColor=111827&logo=statuspage&logoColor=22C55E" />
-    </td>
+<td align="center" width="250">
+<img src="https://img.shields.io/badge/FOCUS-AI%20Systems-A855F7?style=for-the-badge&labelColor=111827&logo=openai&logoColor=A855F7"/>
+</td>
 
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/FOCUS-AI%20Systems-A855F7?style=for-the-badge&labelColor=111827&logo=openai&logoColor=A855F7" />
-    </td>
+<td align="center" width="250">
+<img src="https://img.shields.io/badge/ROLE-Founder-06B6D4?style=for-the-badge&labelColor=111827&logo=vercel&logoColor=06B6D4"/>
+</td>
+</tr>
 
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/ROLE-Founder-06B6D4?style=for-the-badge&labelColor=111827&logo=vercel&logoColor=06B6D4" />
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/LOCATION-Uttar%20Pradesh-FACC15?style=for-the-badge&labelColor=111827&logo=googlemaps&logoColor=FACC15"/>
+</td>
 
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/LOCATION-Uttar%20Pradesh-FACC15?style=for-the-badge&labelColor=111827&logo=googlemaps&logoColor=FACC15" />
-    </td>
+<td align="center">
+<img src="https://img.shields.io/badge/COMPANY-Nextec-C084FC?style=for-the-badge&labelColor=111827&logo=githubsponsors&logoColor=C084FC"/>
+</td>
 
-    <td align="center">
-      <img src="https://img.shields.io/badge/COMPANY-Nextec-C084FC?style=for-the-badge&labelColor=111827&logo=githubsponsors&logoColor=C084FC" />
-    </td>
+<td align="center">
+<img src="https://img.shields.io/badge/MODE-Building%20%26%20Scaling-34D399?style=for-the-badge&labelColor=111827&logo=gitbook&logoColor=34D399"/>
+</td>
+</tr>
 
-    <td align="center">
-      <img src="https://img.shields.io/badge/MODE-Building%20%26%20Scaling-34D399?style=for-the-badge&labelColor=111827&logo=gitbook&logoColor=34D399" />
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/STARTUPS-AI%20Products-F97316?style=for-the-badge&labelColor=111827&logo=rocket&logoColor=F97316"/>
+</td>
 
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/STARTUPS-AI%20Products-F97316?style=for-the-badge&labelColor=111827&logo=rocket&logoColor=F97316" />
-    </td>
+<td align="center">
+<img src="https://img.shields.io/badge/STACK-Full--Stack%20Dev-38BDF8?style=for-the-badge&labelColor=111827&logo=stackblitz&logoColor=38BDF8"/>
+</td>
 
-    <td align="center">
-      <img src="https://img.shields.io/badge/STACK-Full--Stack%20Dev-38BDF8?style=for-the-badge&labelColor=111827&logo=stackblitz&logoColor=38BDF8" />
-    </td>
-
-    <td align="center">
-      <img src="https://img.shields.io/badge/INTEREST-Futuristic%20Tech-E879F9?style=for-the-badge&labelColor=111827&logo=electron&logoColor=E879F9" />
-    </td>
-  </tr>
+<td align="center">
+<img src="https://img.shields.io/badge/INTEREST-Futuristic%20Tech-E879F9?style=for-the-badge&labelColor=111827&logo=electron&logoColor=E879F9"/>
+</td>
+</tr>
 </table>
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:111827&height=3&section=header" />
