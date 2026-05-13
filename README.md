@@ -39,14 +39,17 @@
 
 ### ◈ &nbsp;LIVE STATUS DASHBOARD&nbsp; ◈
 
+
 <table>
   <tr>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge&labelColor=111827&logo=statuspage&logoColor=22C55E" />
     </td>
+
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/FOCUS-AI%20Systems-A855F7?style=for-the-badge&labelColor=111827&logo=openai&logoColor=A855F7" />
     </td>
+
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/ROLE-Founder-06B6D4?style=for-the-badge&labelColor=111827&logo=vercel&logoColor=06B6D4" />
     </td>
@@ -80,6 +83,7 @@
     </td>
   </tr>
 </table>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:111827&height=3&section=header" />
 
