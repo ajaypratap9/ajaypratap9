@@ -129,7 +129,8 @@ Philosophy : "Code. Create. Scale. Repeat."
 
 #### Frontend & Design
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312E81,100:111827&height=40&text=◈%20%20Skills%20%26%20Arsenal%20%20◈&fontSize=18&fontColor=C4B5FD&fontAlignY=65" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:312E81,100:24243e&text=Skills%20%26%20Arsenal&fontColor=ffffff&fontSize=28&fontAlignY=40"/>
+
 
 <br/>
 
