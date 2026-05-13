@@ -1,4 +1,3 @@
-````md
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Building%20AI%20Systems%20%26%20Startups-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
 
