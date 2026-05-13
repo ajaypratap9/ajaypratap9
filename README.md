@@ -111,7 +111,7 @@ Role       : AI Developer + Startup Builder
 Company    : Nextec
 Domains    : Artificial Intelligence · SaaS · Automation
 Interests  : AI Systems · Startups · Product Engineering
-Currently  : Building BharatGPT, Rent-A-CPU & J.A.R.V.I.S AI
+Currently  : Building Unfoldd
 Philosophy : "Code. Create. Scale. Repeat."
 ````
 
@@ -135,12 +135,13 @@ Philosophy : "Code. Create. Scale. Repeat."
 
 **`// FRONTEND & DESIGN`**
 
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
 
 <br/>
 
