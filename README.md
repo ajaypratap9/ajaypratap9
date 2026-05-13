@@ -170,11 +170,11 @@ Philosophy : "Code. Create. Scale. Repeat."
 
 | Project             | Description                              |
 | ------------------- | ---------------------------------------- |
-| 🤖 BharatGPT        | AI copilots built for Indian professions |
-| ☁️ Rent-A-CPU       | Cloud PC platform for creators & gamers  |
-| 🧠 J.A.R.V.I.S AI   | Personal futuristic AI assistant         |
-| 🕶 Smart AI Glasses | Wearable AI interface system             |
-| 🚀 Nextec           | Development & AI consulting company      |
+|    Unfoldd          | AI Roadmap And mission generator platform|
+|    Rent-A-CPU       | Cloud PC platform for creators & gamers  |
+|    J.A.R.V.I.S AI   | Personal futuristic AI assistant         |
+|    Smart AI Glasses | Wearable AI interface system             |
+|    Nextec           | Development & AI consulting company      |
 
 ---
 
@@ -192,10 +192,10 @@ Philosophy : "Code. Create. Scale. Repeat."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajaypratap9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ajaypratap9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <a href="https://github.com/ajaypratap9">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypratap9&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ajaypratap9&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/><br/>
